@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+🎭 **Code Artisan | Dreamer | Creator**  
+🔍 Turning ideas into reality, one line of code at a time.  
+🛠️ Passionate about **Open Source** and **Problem Solving**  
+
+### 💡 Expertise
+- Back-End Development: **Node.js**, **Django**  
+- Front-End Enthusiast: **React**, **TailwindCSS**  
+- DevOps Curious: **Docker**, **CI/CD Pipelines**
+
+🌌 *"Code is like poetry; every line tells a story."*  
+---
+📫 Reach me at [fajar.dev](https://github.com/yourusername)
 <!--
 **Jars44/Jars44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
