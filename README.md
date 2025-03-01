@@ -27,5 +27,9 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Jars44) 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Jars44">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jars44&count=10" alt="Spotify recently played"  />
+  </a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
