@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on home<br>👯 I’m looking to collaborate on GitHub<br>🤝 I’m looking for help with someone<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about computer, technology, programming, etc<br>⚡ Fun fact, love listening to music
+🔭 I’m a Tech Enthusiast<br>👯 I’m looking to collaborate on GitHub<br>🤝 I’m looking for help with someone<br>🌱 I’m currently learning React JS<br>💬 Ask me about computer, technology, programming, etc<br>⚡ Fun fact, love listening to music
 
 
 ## 🌐 Socials:
