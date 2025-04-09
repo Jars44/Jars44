@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>Hello</h3> <br>🔭 I’m a Tech Enthusiast. <br>👯 I’m looking to collaborate on GitHub. <br>🤝 I’m looking for help with someone. <br>🌱 I’m currently learning React & Tailwind. <br>💬 Ask me about technology, computer, programming, etc. <br>⚡ Fun fact, love to listening music. 
+<h2>Hello</h2>🔭 I’m a Tech Enthusiast. <br>👯 I’m looking to collaborate on GitHub. <br>🤝 I’m looking for help with someone. <br>🌱 I’m currently learning React & Tailwind. <br>💬 Ask me about technology, computer, programming, etc. <br>⚡ Fun fact, love to listening music. 
 
 
 ## 🌐 Socials:
