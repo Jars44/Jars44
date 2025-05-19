@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://camo.githubusercontent.com/c47f9d4808addc12754b77e91af0129e2f330c9958ed04e1533c416c079ed8a6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6775696c7978267468656d653d6f6e656461726b26636f6c756d6e3d2d31)
+![](https://camo.githubusercontent.com/3a6c66743e109e1cf141a59ea305cd4affb96a3ee2692eee95f94b8ab84d6bd2/68747470733a2f2f6769746875622d74726f70686965732e76657263656c2e6170702f3f757365726e616d653d436f6f7264696e6174652d4361742672616e6b3d5345435245542c5353532c53532c532c4141412c414126726f773d3226636f6c756d6e3d39267468656d653d67727576626f78)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
