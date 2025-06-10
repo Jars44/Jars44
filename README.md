@@ -19,9 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-![](https://camo.githubusercontent.com/e464aa0b739eb8bcf28de29633162ea39d1f8a619e6655bc740eeff40cec6029/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6d25323048656c6c6f253230576f726c642532304925323776652532305772697474656e2d37352e312532306d696c6c696f6e2532306c696e65732532306f66253230636f64652d626c7565)
-
-![](https://camo.githubusercontent.com/c96707a65dcb11888aa45832375512331f6e116545a7fdd1497f6e1c8ad78c13/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d31253243393636253230687273253230352532306d696e732d626c7565)
+![](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jars44&icon=6&color=0)](https://visitcount.itsvg.in)
