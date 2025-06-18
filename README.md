@@ -13,10 +13,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/Jars44/Jars44/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jars44) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jars44) 
 
 ![](https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
