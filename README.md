@@ -17,8 +17,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31scxdurvyqlgrowynvjeyt327ka&unique={true|1|on|yes})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31scxdurvyqlgrowynvjeyt327ka)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
