@@ -42,13 +42,13 @@ Connect with me on these platforms:
 ## 🚀 Projects
 
 - [Project One - BOT Telegram](https://github.com/Jars44/bot-tg)  
-  A Telegram bot project built with Node.js to automate tasks and improve productivity.
+  Telegram Bot with various useful commands including earthquake info, lyrics search, quotes, anime info, weather, news, prayer times, reminders, downloads, movie search, and sticker creation.
 
 - [Project Two - Game Development](https://github.com/Jars44/game-dev)  
-  An embedded systems project using Arduino and PlatformIO focused on hardware interfacing and control.
+  2D platformer game developed with Godot Engine featuring character controls, animated sprites, tile-based levels, and interactive elements.
 
 - [Project Three - WiFi Portal](https://github.com/Jars44/wifi-portal)  
-  A game developed with Godot Engine featuring AI behaviors and interactive gameplay.
+  WiFi portal for microcontrollers (ESP8266) providing a captive portal with a modern web interface.
 
 ## 📊 GitHub Stats
 
