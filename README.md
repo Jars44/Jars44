@@ -1,37 +1,71 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to My Profile
 
-<p>Welcome to my page! <br> I'm Fajar, a Tech Enthusiast passionate about building innovative solutions and exploring new technologies.</p>
+Welcome to my personal page! I'm Fajar, a passionate Tech Enthusiast dedicated to crafting innovative solutions and exploring the latest in technology. Dive in to learn more about me, my skills, and my projects.
 
 ## 👨‍💻 About Me
-I'm a software developer with experience in multiple programming languages and frameworks. I enjoy working on projects that challenge me to learn and grow. Currently, I'm focused on improving my skills in full-stack development and embedded systems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com) 
+I am a versatile software developer experienced in multiple programming languages and frameworks. I thrive on projects that challenge me to learn and grow. Currently, I am honing my skills in full-stack development and embedded systems, aiming to build impactful and efficient solutions.
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat&logo=platformio&logoColor=%23f5822a) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+## 🌐 Socials
+
+Connect with me on these platforms:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
+
+## 💻 Tech Stack
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+### Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend & Embedded Systems
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat&logo=platformio&logoColor=%23f5822a)
+
+### Game Development
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
 
 ## 🚀 Projects
-- [Project One](https://github.com/Jars44/project-one) - A web app built with React and Node.js for task management.
-- [Project Two](https://github.com/Jars44/project-two) - An embedded system project using Arduino and PlatformIO.
-- [Project Three](https://github.com/Jars44/project-three) - A game developed with Godot Engine showcasing AI behaviors.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- [Project One - BOT Telegram](https://github.com/Jars44/bot-tg)  
+  A Telegram bot project built with Node.js to automate tasks and improve productivity.
 
-<img src="https://raw.githubusercontent.com/Jars44/Jars44/output/snake.svg" alt="Snake animation" />
+- [Project Two - Game Development](https://github.com/Jars44/game-dev)  
+  An embedded systems project using Arduino and PlatformIO focused on hardware interfacing and control.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31scxdurvyqlgrowynvjeyt327ka&unique={true|1|on|yes})
+- [Project Three - WiFi Portal](https://github.com/Jars44/wifi-portal)  
+  A game developed with Godot Engine featuring AI behaviors and interactive gameplay.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 📫 Contact Me
-Feel free to reach out via email or social media for collaborations or questions.
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jars44) 
+Feel free to reach out via email or social media for collaborations, questions, or just to say hi!
 
-![](https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
+## 💰 Support Me
+
+If you find my work helpful, you can support me by buying me a coffee:
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jars44)
