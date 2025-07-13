@@ -4,7 +4,7 @@ Welcome to my personal page! I'm Fajar, a passionate Tech Enthusiast dedicated t
 
 ## 👨‍💻 About Me
 
-I am a versatile software developer experienced in multiple programming languages and frameworks. I thrive on projects that challenge me to learn and grow. Currently, I am honing my skills in full-stack development and embedded systems, aiming to build impactful and efficient solutions.
+I am a software developer experienced in multiple programming languages and frameworks. I thrive on projects that challenge me to learn and grow. Currently, I am honing my skills in full-stack development and embedded systems, aiming to build impactful and efficient solutions.
 
 ## 🌐 Socials
 
