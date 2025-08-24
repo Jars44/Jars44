@@ -48,6 +48,7 @@ Connect with me on these platforms:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)  
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Snake animation](https://github.com/Jars44/Jars44/blob/output/github-contribution-grid-snake.svg)
 
 ## ✍️ Random Dev Quote
 
