@@ -64,9 +64,3 @@ Connect with me on these platforms:
 ## 📫 Contact Me
 
 Feel free to reach out via email or social media for collaborations, questions, or just to say hi!
-
-## 💰 Support Me
-
-If you find my work helpful, you can support me by buying me a coffee:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Jars44)
