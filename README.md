@@ -1,16 +1,39 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Cool Blob Emoji"/> Hey! Welcome to My Profile
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! 👋 Welcome to My GitHub Profile
 
-Welcome to my personal page! I'm Fajar, a passionate tech enthusiast dedicated to crafting innovative solutions and exploring the latest in technology. Dive in to learn more about me, my skills, and my projects.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Innovative+Solutions+with+Code;Exploring+the+Latest+in+Technology" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <em>Passionate about crafting efficient, scalable solutions and turning ideas into reality through code.</em>
+</p>
 
 ## 👨‍💻 About Me
 
-I am a software developer experienced in multiple programming languages and frameworks. I thrive on projects that challenge me to learn and grow. Currently, I am honing my skills in full-stack development and embedded systems, aiming to build impactful and efficient solutions.
+Hi! I'm **Fajar**, a dedicated software developer with a passion for technology and innovation. I specialize in full-stack development, embedded systems, and game development. My journey in tech is driven by curiosity and a love for solving complex problems.
 
-## 🌐 Socials
+- 🔭 Currently working on exciting projects involving web apps, cyber security, and IoT devices
+- 🌱 Always learning: Exploring AI, cyber security, and modern frameworks
+- 💡 Love building: Web applications, and interactive games
+- 🎯 Goal: Create impactful solutions that make a difference
+- ⚡ Fun fact: I enjoy blending creativity with code to bring ideas to life, and I love music and playing Rubik's cube
 
-Connect with me on these platforms:
+## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/itsme.jars" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@itsme.jars" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://discord.gg/jXGvXR4B" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:maulidfajar163@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -58,27 +81,60 @@ Connect with me on these platforms:
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Node Cron](https://img.shields.io/badge/node--cron-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-%230088CC.svg?style=plastic&logo=telegram&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-%233068D1.svg?style=plastic&logo=zod&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-%23D4AA00.svg?style=plastic&logo=javascript&logoColor=black) ![mysql2](https://img.shields.io/badge/mysql2-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [Project One - BOT Telegram](https://github.com/Jars44/bot-tg)  
-  Telegram Bot with various useful commands including earthquake info, lyrics search, quotes, anime info, weather, news, prayer times, reminders, downloads, movie search, and sticker creation.
+<div align="center">
 
-- [Project Two - Game Development](https://github.com/Jars44/game-dev)  
-  2D platformer game developed with Godot Engine featuring character controls, animated sprites, tile-based levels, and interactive elements.
+### 🤖 [BOT Telegram](https://github.com/Jars44/bot-tg)
 
-- [Project Three - WiFi Portal](https://github.com/Jars44/wifi-portal)  
-  WiFi portal for microcontrollers (ESP8266) providing a captive portal with a modern web interface.
+**Tech Stack:** Node.js, Express.js, Telegram Bot API, MySQL, JWT  
+A comprehensive Telegram bot with 15+ features including earthquake monitoring, lyrics search, anime info, weather updates, news aggregator, prayer times, reminders, file downloads, movie database, and custom sticker creation. Built with Node.js and deployed on cloud platforms.
+
+### 🎮 [Game Development](https://github.com/Jars44/game-dev)
+
+**Tech Stack:** Godot Engine, GDScript  
+An engaging 2D platformer game featuring smooth character controls, animated sprites, procedurally generated levels, power-ups, and challenging enemies. Showcases game development skills with physics-based gameplay and polished UI.
+
+### 📡 [WiFi Portal](https://github.com/Jars44/wifi-portal)
+
+**Tech Stack:** Arduino, ESP8266, HTML/CSS/JavaScript  
+A captive WiFi portal for IoT devices with a responsive web interface. Enables easy configuration of WiFi credentials and device settings through a modern, mobile-friendly dashboard.
+
+</div>
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Snake animation](https://github.com/Jars44/Jars44/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=one_dark_pro&hide_border=true" alt="GitHub Streak" />
+</div>
 
-## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://github.com/Jars44/Jars44/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## 📫 Get in Touch
 
-## 📫 Contact Me
+<div align="center">
 
-Feel free to reach out via email or social media for collaborations, questions, or just to say hi!
+I'm always open to interesting conversations, collaborations, or just chatting about tech! Feel free to reach out through any of the platforms below.
+
+<p align="center">
+  <a href="https://instagram.com/itsme.jars" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@itsme.jars" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://discord.gg/jXGvXR4B" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:maulidfajar163@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Jars44&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
+</div>
+
+</div>
