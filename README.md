@@ -20,20 +20,7 @@ Hi! I'm **Fajar**, a dedicated software developer with a passion for technology 
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://instagram.com/itsme.jars" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://tiktok.com/@itsme.jars" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://discord.gg/jXGvXR4B" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:maulidfajar163@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -109,7 +96,11 @@ A captive WiFi portal for IoT devices with a responsive web interface. Enables e
 </div>
 
 <div align="center">
-  <img src="https://github.com/Jars44/Jars44/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jars44/Jars44/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jars44/Jars44/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jars44/Jars44/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ## 📫 Get in Touch
@@ -119,22 +110,17 @@ A captive WiFi portal for IoT devices with a responsive web interface. Enables e
 I'm always open to interesting conversations, collaborations, or just chatting about tech! Feel free to reach out through any of the platforms below.
 
 <p align="center">
-  <a href="https://instagram.com/itsme.jars" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/itsme.jars" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://tiktok.com/@itsme.jars" target="_blank">
+  <a href="https://tiktok.com/@itsme.jars" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://discord.gg/jXGvXR4B" target="_blank">
+  <a href="https://discord.gg/jXGvXR4B" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:maulidfajar163@gmail.com" target="_blank">
+  <a href="mailto:maulidfajar163@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jars44&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
-</div>
-
 </div>
