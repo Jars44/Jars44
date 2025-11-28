@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Passionate about crafting efficient, scalable solutions and turning ideas into reality through code.</em>
+  <em>My main focus: ensuring every line of code contributes to an efficient and scalable system.</em>
 </p>
 
 ## 👨‍💻 About Me
@@ -66,7 +66,7 @@ Hi! I'm **Fajar**, a dedicated software developer with a passion for technology 
 
 ### Libraries & Utilities
 
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Node Cron](https://img.shields.io/badge/node--cron-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-%230088CC.svg?style=plastic&logo=telegram&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-%233068D1.svg?style=plastic&logo=zod&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-%23D4AA00.svg?style=plastic&logo=javascript&logoColor=black) ![mysql2](https://img.shields.io/badge/mysql2-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Node Cron](https://img.shields.io/badge/node--cron-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-%230088CC.svg?style=plastic&logo=telegram&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-%233068D1.svg?style=plastic&logo=zod&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-%23D4AA00.svg?style=plastic&logo=javascript&logoColor=white) ![mysql2](https://img.shields.io/badge/mysql2-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## 🚀 Featured Projects
 
