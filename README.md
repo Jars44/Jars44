@@ -5,7 +5,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+IoT+Engineer;Cybersecurity+Enthusiast+%7C+AI+Explorer;Building+the+Future%2C+One+Project+at+a+Time" alt="Typing SVG" />
   
-  ### *Turning complex problems into elegant solutions through code and creativity*
+  <em>Turning complex problems into elegant solutions through code and creativity</em>
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars)
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B)
