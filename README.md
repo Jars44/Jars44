@@ -152,6 +152,7 @@ Perfect for smart home devices, commercial hotspots, and IoT projects requiring 
 <div align="center">
   
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
