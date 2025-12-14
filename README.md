@@ -10,7 +10,6 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars)
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B)
   [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
-  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars)
 </div>
 
 ## 🚀 What I Do
@@ -56,15 +55,15 @@ const fajar = {
 
 ### Programming Languages
 
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=plastic&logo=typescript&logoColor=%23007ACC) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=plastic&logo=typescript&logoColor=%23007ACC) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=fff) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=plastic&logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![XML](https://img.shields.io/badge/XML-767C52?style=plastic&logo=xml&logoColor=fff) ![Bun](https://img.shields.io/badge/Bun-000?style=plastic&logo=bun&logoColor=fff)
 
 ### Frontend Frameworks & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=plastic&logo=shadcnui&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=fff) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=plastic&logo=shadcnui&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white)
 
 ### Backend Frameworks & Libraries
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 
 ### Databases
 
@@ -72,11 +71,11 @@ const fajar = {
 
 ### DevOps & Deployment
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&logoColor=fff) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=fff) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=fff) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=fff)
 
 ### AI & Data Science
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=plastic&logo=numpy&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=fff) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=plastic&logo=matplotlib&logoColor=fff) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=plastic&logo=githubcopilot&logoColor=fff) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff) ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=plastic&logo=deepseek&logoColor=fff) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic&logo=googlegemini&logoColor=fff) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=plastic&logo=perplexity&logoColor=fff) ![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?style=plastic&logo=qwen&logoColor=fff)
 
 ### IoT & Embedded Systems
 
@@ -88,7 +87,7 @@ const fajar = {
 
 ### Design & Development Tools
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=plastic&logo=godot-engine)
 
 ## 🌟 Featured Projects
 
@@ -96,7 +95,7 @@ const fajar = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🤖 [Telegram Bot Automation](https://github.com/Jars44/bot-tg)
 
@@ -120,28 +119,6 @@ Built with Node.js for scalability and deployed on cloud infrastructure for 24/7
 [View Project →](https://github.com/Jars44/bot-tg)
 
 </td>
-<td width="50%" valign="top">
-
-### 📡 [Smart WiFi Captive Portal](https://github.com/Jars44/wifi-portal)
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP8266-E7352C?style=plastic&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-
-**An intelligent IoT captive portal solution:**
-
-- 🔐 Secure WiFi credential management
-- 📱 Fully responsive mobile interface
-- ⚙️ Device configuration dashboard
-- 🎨 Modern, intuitive UI/UX
-- ⚡ Lightweight & fast
-- 🔧 Easy deployment on ESP8266
-
-Perfect for smart home devices, commercial hotspots, and IoT projects requiring seamless WiFi onboarding.
-
-[View Project →](https://github.com/Jars44/wifi-portal)
-
-</td>
 </tr>
 </table>
 
@@ -152,6 +129,10 @@ Perfect for smart home devices, commercial hotspots, and IoT projects requiring 
 <div align="center">
   
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
+<br>
+
+![Top Langs](TOP_LANGS_PLACEHOLDER)
 
 <br>
 
@@ -175,7 +156,6 @@ Perfect for smart home devices, commercial hotspots, and IoT projects requiring 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=TikTok&logoColor=white)](https://tiktok.com/@itsme.jars)
 
 <br>
 
