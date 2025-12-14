@@ -16,6 +16,8 @@ jobs:
           fetch-depth: 0
 
       - name: Update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           set -e
           # Configure git author (needed for committing on runner)
@@ -25,8 +27,15 @@ jobs:
           # Ensure output directory exists
           mkdir -p output
 
-          # Build the stats URL using the available workflow token
-          STATS_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&token=${{ secrets.GITHUB_TOKEN }}"
+          # Build the stats URL. Use GH_TOKEN if provided to include private repos.
+          BASE_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact"
+          if [ -n "$GH_TOKEN" ]; then
+            echo "Using GH_TOKEN to include private repositories in stats"
+            STATS_URL="$BASE_URL&count_private=true&token=$GH_TOKEN"
+          else
+            echo "No GH_TOKEN provided — generating public-only stats"
+            STATS_URL="$BASE_URL&count_private=false"
+          fi
 
           # Download the generated SVG to a tracked output file (token is not committed)
           curl -sL "$STATS_URL" -o output/top-langs.svg
