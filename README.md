@@ -132,7 +132,7 @@ Built with Node.js for scalability and deployed on cloud infrastructure for 24/7
 
 <br>
 
-![Top Langs](TOP_LANGS_PLACEHOLDER)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44TOP_LANGS_PLACEHOLDERtheme=tokyonightTOP_LANGS_PLACEHOLDERhide_border=trueTOP_LANGS_PLACEHOLDERinclude_all_commits=trueTOP_LANGS_PLACEHOLDERcount_private=trueTOP_LANGS_PLACEHOLDERlayout=compactTOP_LANGS_PLACEHOLDERtoken=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)
 
 <br>
 
