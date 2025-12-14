@@ -15,10 +15,26 @@ jobs:
 
       - name: Update README
         run: |
-          # Fetch stats with token
+          set -e
+          # Ensure output directory exists
+          mkdir -p output
+
+          # Build the stats URL using the secret token (only used server-side here)
           STATS_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=Jars44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&token=${{ secrets.GH_TOKEN }}"
-          # Replace the placeholder in README.md with the actual URL
-          sed -i "s|TOP_LANGS_PLACEHOLDER|$STATS_URL|g" README.md
+
+          # Download the generated SVG to a tracked output file (token is not committed)
+          curl -sL "$STATS_URL" -o output/top-langs.svg
+
+          # Replace the placeholder in README.md with a local path to the generated SVG
+          sed -i "s|!\[Top Langs\](TOP_LANGS_PLACEHOLDER)|![Top Langs](./output/top-langs.svg)|g" README.md
+
+          # Only commit if there are changes
+          git add output/top-langs.svg README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Update Top Languages image"
+          else
+            echo "No changes to commit"
+          fi
 
       - name: Commit and push
         run: |

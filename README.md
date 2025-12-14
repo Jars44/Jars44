@@ -132,7 +132,7 @@ Built with Node.js for scalability and deployed on cloud infrastructure for 24/7
 
 <br>
 
-![Top Langs](TOP_LANGS_PLACEHOLDER)
+![Top Langs](./output/top-langs.svg)
 
 <br>
 
