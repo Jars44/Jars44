@@ -17,9 +17,9 @@
 ```typescript
 const fajar = {
   role: "Tech Enthusiast & Builder",
-  focus: ["Web Development", "IoT Systems", "Cybersecurity", "AI/ML"],
+  focus: ["Web Development", "IoT Systems", "Cybersecurity"],
   currently: "Crafting innovative solutions at the intersection of hardware and software",
-  learning: ["Advanced AI algorithms", "Penetration testing", "Edge computing"],
+  learning: ["Penetration testing", "Web Development", "UI/UX Design"],
   collaborate: "Open to exciting projects and tech discussions!",
 };
 ```
