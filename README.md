@@ -128,11 +128,11 @@ Built with Node.js for scalability and deployed on cloud infrastructure for 24/7
 
 <div align="center">
   
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jars44&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jars44&theme=tokyonight&hide_border=true)
 
 <br>
 
-![Top Langs](./output/top-langs.svg)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jars44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
