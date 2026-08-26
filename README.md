@@ -1,30 +1,31 @@
 <div align="center">
   <img src="https://github.com/Jars44.png" width="64" style="border-radius:50%"/>
 
-  # Hey! I'm Fajar 👋
+# Hey! I'm Fajar
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+QA+%26+E2E+Automation;IoT+Engineer+%7C+Cybersecurity+Enthusiast;Building+Solutions+One+Commit+at+a+Time" alt="Typing SVG" />
 
-  <em>Turning complex problems into elegant solutions through code and creativity</em>
+<em>Turning complex problems into elegant solutions through code and creativity</em>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars)
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/itsme.jars)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/jXGvXR4B)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:maulidfajar163@gmail.com)
+
 </div>
 
-## 🚀 What I Do
+## What I Do
 
 ```typescript
 const fajar = {
-  role: "Full-Stack Developer & QA Engineer",
-  focus: ["Web Development", "E2E Automation", "IoT Systems"],
-  currently: "Building production apps and automated test suites",
-  learning: ["Go backend development", "Advanced Playwright patterns"],
-  collaborate: "Open to exciting projects and tech discussions!",
+  role: 'Full-Stack Developer & QA Engineer',
+  focus: ['Web Development', 'E2E Automation', 'IoT Systems'],
+  currently: 'Building production apps and automated test suites',
+  learning: ['Go backend development', 'Advanced Playwright patterns'],
+  collaborate: 'Open to exciting projects and tech discussions!',
 };
 ```
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -78,7 +79,7 @@ const fajar = {
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -86,7 +87,8 @@ const fajar = {
 <tr>
 <td width="50%" valign="top">
 
-### 📬 [E-Letter Web](https://github.com/e-letter/e-letter-web)
+### [E-Letter Web](https://github.com/e-letter/e-letter-web)
+
 **Next.js 16** School permit letter management system with a modern gradient design, Framer Motion animations, glassmorphism effects, and role-based portals for students, teachers, and admins.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js)
@@ -96,7 +98,8 @@ const fajar = {
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [E-Letter Backend](https://github.com/e-letter/e-letter-backend)
+### [E-Letter Backend](https://github.com/e-letter/e-letter-backend)
+
 **Go/Gin** REST API backend with layered architecture, JWT dual-token authentication, RBAC multi-level permissions, and a multi-stage approval workflow engine.
 
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go)
@@ -109,7 +112,8 @@ const fajar = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Jarvis](https://github.com/Jars44/telegram-bot)
+### [Jarvis](https://github.com/Jars44/telegram-bot)
+
 A multi-domain Telegram bot built with TypeScript and Bun — combines real-time financial intelligence (paper trading, market alerts), AI-powered lifestyle services, and personal productivity tools.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178c6?style=flat&logo=typescript)
@@ -119,7 +123,8 @@ A multi-domain Telegram bot built with TypeScript and Bun — combines real-time
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [DreamsPOS](https://github.com/Jars44/dream-pos)
+### [DreamsPOS](https://github.com/Jars44/dream-pos)
+
 A comprehensive Point of Sale dashboard built with Next.js 16 — features inventory management, sales tracking, customer relations, and business analytics.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js)
@@ -131,7 +136,8 @@ A comprehensive Point of Sale dashboard built with Next.js 16 — features inven
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 [Text Wizard](https://github.com/Jars44/text-wizard)
+### [Text Wizard](https://github.com/Jars44/text-wizard)
+
 A simple, free web app to clean and format messy text — remove markdown, trim spaces, and prep for WhatsApp. [Live demo ↗](https://jars44.github.io/text-wizard/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript)
@@ -139,7 +145,8 @@ A simple, free web app to clean and format messy text — remove markdown, trim 
 </td>
 <td width="50%" valign="top">
 
-### 🎭 [Game Dev](https://github.com/Jars44/game-dev)
+### [Game Dev](https://github.com/Jars44/game-dev)
+
 A 2D platformer game built with Godot Engine 4.3 — smooth animations, collectibles, hazards, tile-based levels, and modular architecture for easy expansion.
 
 ![Godot](https://img.shields.io/badge/Godot-4.3-478CBF?style=flat&logo=godot-engine)
@@ -150,7 +157,7 @@ A 2D platformer game built with Godot Engine 4.3 — smooth animations, collecti
 
 </div>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -170,7 +177,7 @@ A 2D platformer game built with Godot Engine 4.3 — smooth animations, collecti
 
 </div>
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -185,12 +192,8 @@ A 2D platformer game built with Godot Engine 4.3 — smooth animations, collecti
 
 <br>
 
-<sub>💡 **Pro tip:** The best way to reach me is via Instagram or Discord!</sub>
+<sub>**Pro tip:** The best way to reach me is via Instagram or Discord!</sub>
 
-**⭐ If you like my projects, don't forget to give them a star!**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Jars44&label=Visitors&color=00D4FF" alt="Profile Views" />
+**If you like my projects, don't forget to give them a star!**
 
 </div>
